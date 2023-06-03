@@ -1,0 +1,15 @@
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\bin\Debug\net7.0\Assignment9.exe
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\bin\Debug\net7.0\Assignment9.deps.json
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\bin\Debug\net7.0\Assignment9.runtimeconfig.json
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\bin\Debug\net7.0\Assignment9.dll
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\bin\Debug\net7.0\Assignment9.pdb
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.csproj.AssemblyReference.cache
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.AssemblyInfoInputs.cache
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.AssemblyInfo.cs
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.dll
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\refint\Assignment9.dll
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.pdb
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\Assignment9.genruntimeconfig.cache
+C:\Users\Администратор\RiderProjects\Assignment9\Assignment9\obj\Debug\net7.0\ref\Assignment9.dll
