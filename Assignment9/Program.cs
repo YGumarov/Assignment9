@@ -28,3 +28,28 @@ public class Vertex<T>
         AdjacentVertices[destination] = weight;
     }
 }
+
+public class WeightedGraph<T>
+{
+    public Dictionary<T, Vertex<T>> Vertices { get; }
+
+    public WeightedGraph()
+    {
+        Vertices = new Dictionary<T, Vertex<T>>();
+    }
+
+    public void AddVertex(T data)
+    {
+        Vertices[data] = new Vertex<T>(data);
+    }
+
+    public void AddEdge(T source, T destination, double weight)
+    {
+        if (!Vertices.ContainsKey(source) || !Vertices.ContainsKey(destination))
+        {
+            throw new ArgumentException("Source or destination vertex not found.");
+        }
+
+        Vertices[source].AddAdjacentVertex(Vertices[destination], weight);
+    }
+}
