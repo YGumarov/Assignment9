@@ -53,3 +53,16 @@ public class WeightedGraph<T>
         Vertices[source].AddAdjacentVertex(Vertices[destination], weight);
     }
 }
+
+public abstract class Search<T>
+{
+    protected WeightedGraph<T> Graph;
+
+    protected Search(WeightedGraph<T> graph)
+    {
+        Graph = graph;
+    }
+
+    public abstract List<T> Execute(T start, T end);
+}
+
